@@ -2,8 +2,9 @@
 
 Statistics for Swift
 
-This package is a fork of [r0fls/swiftstats](https://github.com/r0fls/swiftstats) simply restructured in such a way that it can be installed as a Swift Package via [Swift Package Manager](https://www.swift.org/package-manager)
+This package is a fork of [r0fls/swiftstats](https://github.com/r0fls/swiftstats) simply restructured in so that it can be installed as a Swift Package via [Swift Package Manager](https://www.swift.org/package-manager)
 
+For full documentation see the [original README](https://github.com/r0fls/swiftstats/README.md) and [source docs](http://r0fls.github.io/swiftstats/).
 
 ## The following distributions are included:
 
